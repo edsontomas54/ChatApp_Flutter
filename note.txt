@@ -1,0 +1,7 @@
+adding firebase to android
+ios
+web
+ keytool -list -v -keystore %USERPROFILE%\.android\debug.keystore  -alias androiddebugkey \
+ -torepass android -keypass android
+
+
